@@ -11,7 +11,7 @@ I configured the directory using Organizational Units (OUs) to simulate a busine
 - IT: Dedicated users for administrative tasks.
 - HR: Simulated departmental user accounts.
 - Sales: Simulated departmental user accounts.
-<img src="/Organizational-Units.jpg" w="250" h= "250"/>
+<img src="Organizational-Units.jpg" w="250" h= "250"/>
 
 ## Applied Group Policies (GPOs) ##
 I created security and configuration rules across the domain.
