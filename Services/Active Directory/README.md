@@ -1,4 +1,4 @@
-### Active Directory Enterprise Simulation ###
+# Active Directory Enterprise Simulation #
 
 This project is a functional implementation of Windows Server 2025 running within a virtual machine. The goal was to build a working domain environment from scratch to practice User Management (IAM) and Group Policy administration.
 
