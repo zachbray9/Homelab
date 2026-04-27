@@ -19,4 +19,14 @@ I created security and configuration rules across the domain.
 - External Drive Policy: Disabled the use of USB/external storage to prevent unauthorized data transfer.
 - Desktop Wallpaper Policy: Configured a mandatory desktop wallpaper policy to prevent users from changing their computer's wallpaper and demonstrate environment-wide configuration control.
 - Control Panel Access Policy: Prevented users from being able to access their computer's control panel so they can't change any important settings.
+<table align="center">
+  <tr>
+    <td align="center"><b>Password Policy</b><br><img src="PasswordRequirementsPolicy.jpg" width="350"></td>
+    <td align="center"><b>External Drive Policy</b><br><img src="ExternalDrivePolicy" width="350"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Desktop Wallpaper Policy</b><br><img src="DesktopWallpaperPolicy.jpg" width="350"></td>
+    <td align="center"><b>Control Panel Access Policy</b><br><img src="ControlPanelAccessPolicy.jpg" width="350"></td>
+  </tr>
+</table>
 
