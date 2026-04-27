@@ -21,12 +21,12 @@ I created security and configuration rules across the domain.
 - Control Panel Access Policy: Prevented users from being able to access their computer's control panel so they can't change any important settings.
 <table align="center">
   <tr>
-    <td align="center"><b>Password Policy</b><br><img src="PasswordRequirementsPolicy.jpg" width="350"></td>
-    <td align="center"><b>External Drive Policy</b><br><img src="ExternalDrivePolicy" width="350"></td>
+    <td align="center"><b>Password Policy</b><br><img src="PasswordRequirementPolicy.jpg" width="600"></td>
+    <td align="center"><b>External Drive Policy</b><br><img src="ExternalDrivePolicy.jpg" width="600"></td>
   </tr>
   <tr>
-    <td align="center"><b>Desktop Wallpaper Policy</b><br><img src="DesktopWallpaperPolicy.jpg" width="350"></td>
-    <td align="center"><b>Control Panel Access Policy</b><br><img src="ControlPanelAccessPolicy.jpg" width="350"></td>
+    <td align="center"><b>Desktop Wallpaper Policy</b><br><img src="DesktopWallpaperPolicy.jpg" width="600"></td>
+    <td align="center"><b>Control Panel Access Policy</b><br><img src="ControlPanelAccessPolicy.jpg" width="600"></td>
   </tr>
 </table>
 
