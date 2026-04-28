@@ -21,6 +21,8 @@ The homelab runs on a single Lenovo ThinkCentre M720q mini PC with the following
 |---|---|---|
 | Pi-hole | Debian 12 LXC | DNS-based network-wide ad blocker with custom blocklists |
 | Active Directory | Windows Server 2025 VM | Sandbox for learning AD - created OUs, users, and practiced administrative tasks like password resets |
-| Grafana + Prometheus | Ubuntu VM with Docker | Collects system metrics and displays them in custom dashboards |
+| Grafana + Prometheus + Alertmanager | Ubuntu VM with Docker | Collects system metrics, displays them in custom dashboards, and sends push notifications when a service goes down |
+| TailScale | Debian 12 LXC | VPN that lets me connect to my home network from anywhere |
+| Jellyfin | Debian 12 LXC | Home media server that lets me host my own tv shows and movies with a netflix-style interface to watch them |
 
 <img src="Proxmox.jpg" alt="Proxmox">
