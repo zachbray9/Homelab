@@ -2,7 +2,7 @@
 Self-hosted homelab running Proxmox on a Lenovo ThinkCentre M720q. I built this project so that I could add self-hosted projects to my home network, and so I can play around and improve my Linux and networking concepts. I've already hosted some things like a network-wide adblocker using Pi-hole, a Windows Server 2025 VM to play around with Active Directory, and Grafana + Prometheus to create custom dashboards for system metrics. I plan to continue expanding with self-hosted cloud storage, a media server, and more.
 
 <img src="HomelabRack.jpeg" width="400px" alt="Server Rack">
-<img src="Proxmox.jpg" width="400px" alt="Proxmox">
+<img src="Proxmox.jpg" alt="Proxmox">
 
 ## Architecture
 ![Homelab Network Diagram](HomelabDiagram.drawio.png)
